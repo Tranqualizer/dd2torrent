@@ -1,15 +1,15 @@
-name: Create torrent
+name: drama
 on:
   push:
     branches:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
+  name: "Android St"
+  comment: "dra,a"
+  url: "https://cl-cdn2.beymtv.com/download/fc2f51814e35ad3bbd591570fb46fbd7/Mehmed29hadaf1080p.mp4"
   file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 2^21 # Check the README.md for recommended piece size
       
 jobs:
   create:
